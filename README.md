@@ -33,7 +33,7 @@ You need Node.js and NPM installed on your machine.
 ### Installation
 1. Clone the repository
    ```sh
-   git clone https://github.com/your-username/attendance-calculator.git
+   git clone https://github.com/Blessd27/Attendance-Calculator.git
    ```
 2. Navigate to the project directory
    ```sh
